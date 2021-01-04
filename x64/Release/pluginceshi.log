@@ -1,0 +1,4 @@
+﻿  pluginceshi.cpp
+d:\application_addin\tools\ceshi_dll_confige\pluginceshi\pluginceshi\pluginceshi.cpp(76): warning C4715: “pluginceshi::loadPlugin”: 不是所有的控件路径都返回值
+d:\application_addin\tools\ceshi_dll_confige\pluginceshi\pluginceshi\pluginceshi.cpp(124): warning C4715: “pluginceshi::LoadPlugin”: 不是所有的控件路径都返回值
+  pluginceshi.vcxproj -> D:\application_addin\tools\ceshi_dll_confige\pluginceshi\x64\Release\pluginceshi.exe
